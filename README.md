@@ -1,1 +1,3 @@
-github-metrics.svg
+<p align="center">
+<img src="https://github.com/Arthurprnt/Arthurprnt/blob/main/github-metrics.svg%22%3E
+  </p>
